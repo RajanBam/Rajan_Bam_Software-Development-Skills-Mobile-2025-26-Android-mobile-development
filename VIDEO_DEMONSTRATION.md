@@ -21,4 +21,4 @@ https://youtube.com/shorts/YllmafZwVuE
   
 
 
-**Ready to record? Follow the checklist above and create an amazing demo! 📱🎥**
+
