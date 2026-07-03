@@ -1,9 +1,9 @@
-# Lappeenrannan teknillinen yliopisto (LUT University)
+# LUT University
 ## School of Business and Management
 
 ---
 
-# Software Development Skills DevOps, Online course
+# Software Development Skills Mobile, Online course
 
 **Rajan Bam**, Student Number: 002295635
 
